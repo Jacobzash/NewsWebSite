@@ -1,0 +1,66 @@
+#cabeza{
+       
+            background-color:#F52887;
+            padding:25px;
+            border-radius:10px;
+            margin:20px;
+            font-size:30px;
+    }
+    
+        h1{
+            
+            text-align:center;
+            
+    }
+        .uno{
+            
+            color:black;
+            text-align:right;
+            
+    }
+        article{
+            
+            background-color:#FFE6E8;
+            padding:25px;
+            border-radius:10px;
+            margin:20px;
+            
+    }
+    main{
+        
+            background-color:#F52887;
+            padding:25px;
+            border-radius:10px;
+            margin:20px;
+            
+    }
+    
+    p{
+        
+            font-size:20px;
+            
+    }
+    
+    #imagen1{
+        
+            float:right;
+        
+    }
+    
+    .publicado{
+            
+            color:#FF7722}
+    
+    }
+    
+    #suscribase{
+            
+            font-size:30px;
+        
+    }
+    
+    #p1{
+        
+            font-size:25px;
+        
+    }
